@@ -1,0 +1,16 @@
+.text-center{
+  text-align: center
+}
+button{
+  outline: none;
+  border: none;
+  box-sizing: border-box;
+}
+button[type=primary]{
+  background: linear-gradient(to top, #57a4f5, #3685eb);
+  color: #fff;
+  font-size: 32px;
+  line-height: 80px;
+  height: 80px;
+  border-radius: 80px;
+}
