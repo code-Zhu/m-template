@@ -14,3 +14,12 @@ button[type=primary]{
   height: 80px;
   border-radius: 80px;
 }
+._margin_10px{
+  margin: 20px;
+}
+.tip{
+  font-size: 24px;
+}
+.tip[type=info]{
+  color: #999;
+}
