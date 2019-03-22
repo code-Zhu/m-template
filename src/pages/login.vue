@@ -11,7 +11,7 @@
         <img src="../assets/img/key.png" alt="">
         <input :value="form.password" type="text">
       </div>
-      <button type="primary">登录</button>
+      <button type="primary" @click="$router.push('/index')">登录</button>
     </div>
   </div>
 </template>
@@ -20,7 +20,7 @@ export default {
   data () {
     return {
       form: {
-        name: '18931894586',
+        name: '18931894584',
         password: '111'
       }
     }
