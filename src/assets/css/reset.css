@@ -24,6 +24,7 @@ body {
 	background-repeat: no-repeat;
 	box-sizing: border-box;
 	text-shadow: none;
+	background: #f9f9f9;
 }
 ol, ul {
 	list-style: none;
