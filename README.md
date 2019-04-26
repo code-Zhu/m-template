@@ -1,4 +1,4 @@
-# huoran-app
+# mobile-template
 
 > A Vue.js project
 
